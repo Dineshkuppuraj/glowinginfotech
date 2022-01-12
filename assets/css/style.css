@@ -3167,23 +3167,30 @@ address {
 }
 
 .study1 {
-  background-image: url("../img/project/flashambient.jpg");
+  background-image: url("../img/project/flash-ambient-sm.jpg");
 }
 
 .study2 {
-  background-image: url("../img/project/dayToDusk.jpg");
+  background-image: url("../img/project/day-dust-sm.jpg");
 }
 
 .study3 {
-  background-image: url("../img/project/hdrblending.jpg");
+  background-image: url("../img/project/HDR-sm.jpg");
 }
 
 .study4 {
-  background-image: url("../img/project/realestate.jpg");
+  background-image: url("../img/project/real-estate-sm.jpg");
 }
 .study5 {
-  background-image: url("../img/project/skyreplacement.jpg");
+  background-image: url("../img/project/sky-replacement-sm.jpg");
 }
 .study6 {
-  background-image: url("../img/project/virtualtwilight.jpg");
+  background-image: url("../img/project/virtual-twilight-sm.jpg");
+}
+
+.study7 {
+  background-image: url("../img/project/item-removal-sm.jpg");
+}
+.study8 {
+  background-image: url("../img/project/color-change-sm.jpg");
 }
