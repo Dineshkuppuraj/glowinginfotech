@@ -494,7 +494,7 @@ figure {
 
 .haeder-main-wrapper {
   border-bottom: 1px solid #928f8b;
-  padding: 22px 0; }
+  padding: 15px 0; }
   @media only screen and (max-width: 767px) {
     .haeder-main-wrapper {
       padding: 12px 0; } }
@@ -508,13 +508,13 @@ figure {
       color: #d69413; }
 
 .header-social-link a {
-  color: #dddddd;
+  color: #110e0e;
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
   margin-right: 10px; }
   .header-social-link a:hover {
-    color: #ffffff; }
+    color: #c3a8a8; }
 
 .header-right {
   display: -webkit-box;
@@ -852,7 +852,7 @@ figure {
 
 /*-------- slider area end --------*/
 .hero-slider-inner {
-  position: relative; }
+  position: relative;margin-top:7.5rem; }
   @media only screen and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
     .hero-slider-inner .site-navigation {
       display: none; } }
