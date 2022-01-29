@@ -2482,7 +2482,7 @@ figure {
 /*----- product details content start -----*/
 .project-details-inner {
   padding: 43px 48px;
-  border: 3px solid #333333; }
+  border: 1px solid aqua }
   @media only screen and (min-width: 1200px) and (max-width: 1599px) {
     .project-details-inner {
       padding: 35px; } }
