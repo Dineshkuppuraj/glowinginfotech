@@ -3123,10 +3123,11 @@ address {
 .case-study__title {
   /* position: relative;
   top: -200px; */
-  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
+  background-color: #4a4b47;
   margin-top: 4rem;
   font-size: 2.25rem;
-  font-family: 'Oswald';
+  /* font-family: 'Oswald'; */
   font-weight: 100;
   color: white;
   text-align: center;
@@ -3193,4 +3194,10 @@ address {
 }
 .study8 {
   background-image: url("../img/project/color-change-sm.jpg");
+}
+.study8 {
+  background-image: url("../img/project/color-change-sm.jpg");
+}
+.study9 {
+  background-image: url("../img/project/wedding-sm.jpg");
 }
